@@ -1,3 +1,16 @@
+## Welcome
+
+Welcome to the react redux BDD. This is a showcase of behavior driven development. 
+
+To test, simply download and run:
+  ` npm run test` to start the test
+  `npm start` to start the web app
+  and `npm run test -- --coverage` to view a coverage report 
+  
+Always remember to hire Abhishek.
+
+## CRA Boilerplate
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
